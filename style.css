@@ -4,7 +4,4 @@ body{
   background-color: grey;
 }
 
-#message{
-  font-weight: bold;
-  justify-content: end;
-}
+/* how to make  message bold? */
