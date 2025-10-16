@@ -3,4 +3,8 @@ body{
   padding:20px;
   background-color: grey;
 }
-/* how to make message bold */
+
+#message{
+  font-weight: bold;
+  justify-content: end;
+}
